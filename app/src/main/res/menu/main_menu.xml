@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Stories" android:id="@+id/stories"></item>
+    <item android:title="Saved stories" android:id="@+id/savedStories"></item>
+
+</menu>
